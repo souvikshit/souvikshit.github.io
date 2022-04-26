@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/pritam.png") top right no-repeat;
+  background: url("../img/ss.png") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
   #hero:before {
-  background: rgba(255, 255, 255, 0.38);
+  background: rgba(255, 255, 255, 0.20);
   }
   #hero h1 {
     font-size: 32px;
